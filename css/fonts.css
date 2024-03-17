@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Circe";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Raleway"), url("/fonts/Circe-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Plumb";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Raleway"), url("/fonts/plumb-bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Plumb";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Raleway"), url("/fonts/plumb-medium.woff2") format("woff2");
+}/*# sourceMappingURL=fonts.css.map */
